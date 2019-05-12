@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kaveesh Heshan
+Build-Jdk: 11.0.2
+Implementation-Title: Springboot Demo App
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rst.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-demo
+Created-By: Maven Integration for Eclipse
+
